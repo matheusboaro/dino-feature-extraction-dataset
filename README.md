@@ -16,4 +16,4 @@ Tutorial on how to extract features from DINO's attention layers.
 
 ### Attention Matrix Visualization
 
-![alt text](https://github.com/matheusboaro/dino-feature-extraction-dataset/blob/main/att_matrix.png)
+![alt text](https://github.com/matheusboaro/dino-feature-extraction-dataset/blob/main/att_viz.png)
