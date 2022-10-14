@@ -1,10 +1,10 @@
 # DINO Attention Layers Vizualization
 
-Tutorial on how to extract features from Dino attention layers and save.
+Tutorial on how to extract features from DINO's attention layers.
 
 ## Content
-- Function do extract o matrixes from the attetion layers.
-- Save as .npz files.
+- Extraction of the attetion layers' matrixes.
+- Saving as .npz files.
 - Attention matrixes vizualization.
 
 ## Dino Source Code
