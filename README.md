@@ -1,10 +1,19 @@
-# dino-feature-extraction-dataset
+# DINO Attention Layers Vizualization
 
-Tutorial on how to extract features from Dino attention layers.
+Tutorial on how to extract features from Dino attention layers and save.
+
+## Content
+- Function do extract o matrixes from the attetion layers.
+- Save as .npz files.
+- Attention matrixes vizualization.
 
 ## Dino Source Code
 - https://github.com/facebookresearch/dino
 
-## Sample
+## Example
+### Original Image
+- ![alt text](https://github.com/matheusboaro/dino-feature-extraction-dataset/blob/main/FSCN2928.JPG)
 
-- ![alt text](https://github.com/matheusboaro/vision-transformes-evaluation/blob/main/presentation/10269-%5B1%5Dvit_correct.png)
+### Attention Matrix Vizualization
+
+- ![alt text](https://github.com/matheusboaro/dino-feature-extraction-dataset/blob/main/att_matrix.png)
