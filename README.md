@@ -3,7 +3,7 @@
 Tutorial on how to extract features from DINO's attention layers.
 
 ## Content
-- Extraction of the attetion layers' matrixes.
+- Extraction of the attention layers' matrixes.
 - Saving as .npz files.
 - Attention matrixes vizualization.
 
